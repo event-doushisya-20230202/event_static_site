@@ -3,9 +3,9 @@
 }
 
 .top-section { 
-    height: 100vh;
+    height: 70vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://nazesuugaku.com/wp-content/uploads/DSC_2236-2-768x432.jpg);
     background-size: cover;
 }
 
@@ -22,8 +22,8 @@
     /* display: inline; */
     font-size: 4em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    font-family: 'Caveat', cursive;
+    color: rgb(252, 252, 252);
     text-align: center;
 }
 
