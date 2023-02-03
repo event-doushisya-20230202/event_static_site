@@ -5,8 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
-    background-size: cover;
+    background-size: cover;()
 }
 
 
@@ -23,7 +22,7 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color:red;
     text-align: center;
 }
 
@@ -49,5 +48,5 @@
 }
 
 .privacy-policy-link{
-    color: #3cbf49;
+    color:#3c45bf;
 }
