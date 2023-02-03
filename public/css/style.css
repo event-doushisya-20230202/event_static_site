@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
 .navbar{
     background-color:white;
 }
@@ -5,10 +7,9 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://websunday.net/wp-content/themes/cms202008/assets/img/websunday2019/conan100/img/chara_main_08.jpg);
     background-size: cover;
 }
-
 
 .top-content{
     display: flex;
@@ -22,8 +23,8 @@
     /* display: inline; */
     font-size: 4em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    font-family: 'Sacramento', cursive;
+    color: rgb(12, 6, 6);
     text-align: center;
 }
 
