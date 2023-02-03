@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://blog.kimini.online/blog/wp-content/uploads/2021/11/apple-g68cd7a094_1280.jpg);
     background-size: cover;
 }
 
@@ -23,7 +23,7 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(100, 176, 164);
     text-align: center;
 }
 
