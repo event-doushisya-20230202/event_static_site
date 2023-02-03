@@ -1,11 +1,12 @@
 .navbar{
-    background-color:white;
+    background-color:rgb(209, 156, 23);
 }
 
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://animeanime.jp/imgs/p/jtKDOVlKAvjRrNw8SXAVejagI61Nrq_oqaqr/550804.jpg);
+    background-attachment:();
     background-size: cover;
 }
 
@@ -23,7 +24,8 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: 
+    rgb(173, 23, 160);
     text-align: center;
 }
 
@@ -37,7 +39,7 @@
 
 .my-footer{
     height: 20vh;
-    background-color: white;
+    background-color: rgb(180, 29, 29);
 }
 
 .my-footer .container { 
