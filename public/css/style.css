@@ -1,11 +1,11 @@
 .navbar{
-    background-color:white;
+    background-color:rgb(255, 249, 252);
 }
 
 .top-section { 
-    height: 100vh;
+    height: 50vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/South-Hokkaido-Railway_Kiha40-1810.jpg/800px-South-Hokkaido-Railway_Kiha40-1810.jpg);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(175, 25, 5);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #2c4ac4;
 }
 
 .content-section .container { 
@@ -37,7 +37,7 @@
 
 .my-footer{
     height: 20vh;
-    background-color: white;
+    background-color: rgb(111, 131, 224);
 }
 
 .my-footer .container { 
