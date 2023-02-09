@@ -22,13 +22,13 @@
     /* display: inline; */
     font-size: 4em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
+    font-family: "MS Pゴシック体", "Yu Mincho", YuMincho, serif;
     color: rgb(4, 4, 125);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: rgb(4, 4, 125);
 }
 
 .content-section .container { 
