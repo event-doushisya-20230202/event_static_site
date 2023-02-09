@@ -1,6 +1,6 @@
 window.addEventListener("DOMContentLoaded", function () {
-  const alertBtn = document.getElementById("alert-btn");
+  const alertBtn = document.getElementById("警告-btn");
   alertBtn.addEventListener("click", function (e) {
-    window.alert("これはアラートです。");
+    document.getElementById("title").style.color = "red"
   });
 });

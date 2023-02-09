@@ -10,6 +10,8 @@
 }
 
 
+
+
 .top-content{
     display: flex;
     height: 100%;
@@ -20,10 +22,10 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 3em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(175, 25, 5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(179, 236, 65);
     text-align: center;
 }
 
