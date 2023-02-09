@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(https://i.pinimg.com/564x/b6/83/29/b683291b4f2125ac070ed5a43f179369.jpg);
+    background-image: url(../images/images03.jpeg);
     background-size: cover;
 }
 
@@ -20,10 +20,10 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 9em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(238, 254, 234);
+    color: rgb(99, 115, 237);
     text-align: center;
 }
 
