@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
 .navbar{
     background-color:white;
 }
@@ -5,7 +7,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(https://blog.kimini.online/blog/wp-content/uploads/2021/11/apple-g68cd7a094_1280.jpg);
+    background-image: url(hhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.entabe.jp%2Fupload%2F20230126%2Fimages%2Fstarbucks-opera-frappuccino.jpg&imgrefurl=https%3A%2F%2Fentabe.jp%2F52957%2Fstarbucks-opera-frappuccino&tbnid=dJ2xd7tLsynMiM&vet=12ahUKEwijmbK6-If9AhXbtVYBHd3bDAQQMygBegUIARDdAQ..i&docid=WzasHrN7zSKIcM&w=1280&h=1279&q=%E3%82%B9%E3%82%BF%E3%83%90%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3&ved=2ahUKEwijmbK6-If9AhXbtVYBHd3bDAQQMygBegUIARDdAQsps://gfycat.com/occasionalshortaustraliancurlew);
     background-size: cover;
 }
 
@@ -28,7 +30,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #fda10d;
 }
 
 .content-section .container { 
