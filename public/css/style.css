@@ -1,5 +1,5 @@
 .navbar{
-    background-color:white;
+    background-color:rgb(91, 108, 62);
 }
 
 .top-section { 
@@ -22,8 +22,8 @@
     /* display: inline; */
     font-size: 4em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(21, 102, 201);
+    font-family: "ローマン体", "Yu Mincho", YuMincho, serif;
+    color: rgb(165, 201, 21);
     text-align: center;
 }
 
@@ -37,7 +37,7 @@
 
 .my-footer{
     height: 20vh;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .my-footer .container { 
