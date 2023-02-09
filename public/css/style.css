@@ -22,13 +22,13 @@
     /* display: inline; */
     font-size: 4em;
     font-weight: bold;
-    font-family: "Nikukyu", "Itim', cursive", YuMincho, serif;
+    font-family: 'Caveat', cursive;
     color: rgb(255, 0, 0);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #4d74d8;
 }
 
 .content-section .container { 
@@ -49,5 +49,5 @@
 }
 
 .privacy-policy-link{
-    color: #3cbf49;
+    color: #000000;
 }
