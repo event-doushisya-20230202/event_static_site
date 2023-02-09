@@ -5,7 +5,8 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(https://www.pokemon.co.jp/PostImages/1b1bcb9307fde276e106905204db1d268c905b87.jpg);
+    /*background-image: url(https://www.pokemon.co.jp/PostImages/1b1bcb9307fde276e106905204db1d268c905b87.jpg);*/
+    background-image: url(https://openseauserdata.com/files/3805e2bdebd454303a75db6afbb8f057.gif);
     background-size: cover;
 }
 
@@ -20,15 +21,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 8em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(42, 80, 216);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #1878e6;
 }
 
 .content-section .container { 
