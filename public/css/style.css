@@ -3,7 +3,7 @@
 }
 
 .top-section { 
-    height: 70vh;
+    height: 80vh;
     width: 100vw;
     background-image: url(https://nazesuugaku.com/wp-content/uploads/DSC_2236-2-768x432.jpg);
     background-size: cover;
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: 'Caveat', cursive;
-    color: rgb(252, 252, 252);
+    color: rgb(232, 203, 203);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #169383;
 }
 
 .content-section .container { 
